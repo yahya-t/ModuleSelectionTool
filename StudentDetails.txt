@@ -1,0 +1,70 @@
+Student Details
+===============
+
+Name: Joe Bloggs
+PNo: P999999
+Email: jb@email.com
+Date: 30/08/2021
+Course: Software Engineering
+
+Selected modules
+===============
+
+Module code: CTEC3902
+Module name: Rigorous Systems
+Module credits: 15
+Mandatory on your course? yes
+Delivery: Term 2
+
+Module code: IMAT3104
+Module name: Database Management and Programming
+Module credits: 15
+Mandatory on your course? no
+Delivery: Term 2
+
+Module code: IMAT3423
+Module name: Systems Building: Methods
+Module credits: 15
+Mandatory on your course? yes
+Delivery: Term 1
+
+Module code: IMAT3611
+Module name: Computer Ethics and Privacy
+Module credits: 15
+Mandatory on your course? no
+Delivery: Term 1
+
+Module code: IMAT3613
+Module name: Data Mining
+Module credits: 15
+Mandatory on your course? no
+Delivery: Term 1
+
+Module code: IMAT3614
+Module name: Big Data and Business Models
+Module credits: 15
+Mandatory on your course? no
+Delivery: Term 2
+
+Reserved modules
+===============
+
+Module code: CTEC3904
+Module name: Functional Software Development
+Module credits: 15
+Delivery: Term 2
+
+Module code: CTEC3905
+Module name: Front-End Web Development
+Module credits: 15
+Delivery: Term 2
+
+Module code: CTEC3906
+Module name: Interaction Design
+Module credits: 15
+Delivery: Term 1
+
+Module code: IMAT3406
+Module name: Fuzzy Logic and Knowledge Based Systems
+Module credits: 15
+Delivery: Term 1
